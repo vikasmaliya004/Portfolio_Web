@@ -20,7 +20,7 @@ const Contact = () => {
     e.preventDefault()
 
     emailjs
-      .sendForm('service_16rn50a', 'template_sb6u559', form.current, 'dKQwVEvQUCKz48mLd')
+      .sendForm('service_16rn50a', 'template_sb6u559', form.current, 'WDE3BNDEfLWp4-9ZO')
       .then(
         () => {
           alert('Message successfully sent!')
@@ -96,12 +96,17 @@ const Contact = () => {
           <span>maliyavikas7@gmail.com</span>
         </div>
         <div className="map-wrap">
-        <MapContainer center={[44.96366, 19.61045]} zoom={13}>
-            <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            <Marker position={[44.96366, 19.61045]}>
-              <Popup>Vikas lives here, come over for a cup of coffee :)</Popup>
-            </Marker>
-          </MapContainer>
+        <MapContainer center={[51.505, -0.09]} zoom={13} scrollWheelZoom={false}>
+  <TileLayer
+    attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+  />
+  <Marker position={[51.505, -0.09]}>
+    <Popup>
+      A pretty CSS3 popup. <br /> Easily customizable.
+    </Popup>
+  </Marker>
+</MapContainer>
         </div>
       </div>
       <Loader type="pacman" />
