@@ -1,9 +1,21 @@
 {
     "portfolio": [{
-            "cover": "/portfolio/1/one.png",
-            "title": "Snake Game",
-            "description": "Snake game is a computer action game.",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
+            "cover": "/portfolio/1/three.png",
+            "title": "Movie Search Application with React js",
+            "description": "Movie Search Application is a free movie scene image search app, it helps you to find name of the movie, tv series... In fell seconds, the app can find what's movie you are watching.",
+            "url": "https://movie-search-application-one.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/1/two.png",
+            "title": "Weather app using react js",
+            "description": "The essential weather app features include adding multiple locations, earth time-lapse, rain predictions, time of Sun rise and Sun set, UV Weather map, climate map, weather forecast, humidity, visibility, wind predictions, push notifications, API integrations, etc.",
+            "url": "https://weather-app-using-react-js-r8pt.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/1/four.png",
+            "title": "The Generics",
+            "description": "A multi-page e-commerce front end application where an user can know about the Band , purchase items, get updates.",
+            "url": "https://melodious-malasada-9b61dd.netlify.app/"
         },
         {
             "cover": "/portfolio/1/one.png",
@@ -12,10 +24,28 @@
             "url": "https://wondrous-fairy-e40ab5.netlify.app/"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "Snake Game",
-            "description": "Snake game is a computer action game.",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
+            "cover": "/portfolio/1/fve.png",
+            "title": "Photography Site",
+            "description": " Despite their popularity, social media platforms are far from the best way to showcase your work online",
+            "url": "https://fancy-lolly-9ef961.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/1/three.png",
+            "title": "Movie Search Application with React js",
+            "description": "Movie Search Application is a free movie scene image search app, it helps you to find name of the movie, tv series... In fell seconds, the app can find what's movie you are watching.",
+            "url": "https://movie-search-application-one.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/1/two.png",
+            "title": "Weather app using react js",
+            "description": "The essential weather app features include adding multiple locations, earth time-lapse, rain predictions, time of Sun rise and Sun set, UV Weather map, climate map, weather forecast, humidity, visibility, wind predictions, push notifications, API integrations, etc.",
+            "url": "https://weather-app-using-react-js-r8pt.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/1/four.png",
+            "title": "The Generics",
+            "description": "A multi-page e-commerce front end application where an user can know about the Band , purchase items, get updates.",
+            "url": "https://melodious-malasada-9b61dd.netlify.app/"
         },
         {
             "cover": "/portfolio/1/one.png",
@@ -24,100 +54,11 @@
             "url": "https://wondrous-fairy-e40ab5.netlify.app/"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://wondrous-fairy-e40ab5.netlify.app/"
+            "cover": "/portfolio/1/fve.png",
+            "title": "Photography Site",
+            "description": " Despite their popularity, social media platforms are far from the best way to showcase your work online",
+            "url": "https://fancy-lolly-9ef961.netlify.app/"
         }
+
     ]
 }

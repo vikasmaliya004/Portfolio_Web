@@ -23,6 +23,8 @@
         border-radius: 10px;
         max-width: calc(25% - 10px);
         .portfolio-image {
+            display: flex;
+            flex-wrap: wrap;
             position: absolute;
             z-index: 2;
             width: 100%;
@@ -30,6 +32,8 @@
             object-fit: cover;
         }
         .content {
+            display: flex;
+            word-wrap: break-word;
             position: absolute;
             width: 100%;
             z-index: 3;
@@ -49,13 +53,16 @@
         .description {
             font-size: 14px;
             margin-bottom: 5px;
+            padding: 50px;
             color: #fff;
             font-weight: 700;
         }
         .btn {
+            display: flex;
+            flex-wrap: wrap;
             margin-top: 30px;
             margin-bottom: 10px;
-            padding: 0 23px;
+            padding: 5px 23px;
             height: 40px;
             line-height: 34px;
             border: 2px solid #ffd700;
